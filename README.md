@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 안녕하세요✨
 <p>
 	<img src="https://img.shields.io/badge/seokjunh97@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
