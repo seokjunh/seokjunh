@@ -9,7 +9,6 @@
 
 ##  Tech Stacks
 
-### frontend
 <p>
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000" />
@@ -17,9 +16,10 @@
 	<img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 </p>
-### backend
-
-### DevOps
+<p>
+  	<img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
 <!---
 seokjunh/seokjunh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
