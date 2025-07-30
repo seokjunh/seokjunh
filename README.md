@@ -20,6 +20,9 @@
   	<img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
+
+<!-- 사용한 언어 순위 카드 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokjunh&layout=compact&theme=tokyonight)
 <!---
 seokjunh/seokjunh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
