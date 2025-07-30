@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=ACBCFF&height=200&section=header&text=Welcome to Seokjun's Github👋&fontSize=40" />
+</p>
 
-안녕하세요✨
-<p>
+<p align="center">
 	<img src="https://img.shields.io/badge/seokjunh97@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 	<a href="https://velog.io/@seokjun/posts"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=velog&logoColor=white" />
 </p>
