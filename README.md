@@ -34,10 +34,10 @@
 <!-- 경험 -->
 ## 🏃 Experiences
 <ul>
-  <li>2024.07 ~ 2024.12 <strong>우리에프아이에스 아카데미(우리FISA) 3기 - 우리에프아이에스</strong></li>
-  <li>2023.01 ~ 2023.12 <strong>삼성 청년 SW 아카데미(SSAFY) 9기 - 삼성전자</strong></li>
-  <li>2021.02 ~ 2021.02 <strong>Elasticsearch Training - 엘라스틱서치코리아, 상명대학교</strong></li>
-  <li>2018.03 ~ 2022.02 <strong>상명대학교 SW융합학부 컴퓨터과학전공</strong></li>
+  <li>2024.08 ~ 2024.09 <strong>유데미X스나이퍼팩토리 리액트 2기 - 유데미</strong></li>
+  <li>2023.11 ~ 2024.04 <strong>Smart City 3기 - 현대건설</strong></li>
+  <li>2023.04 ~ 2023.11 <strong>디지털트윈 IT 개발자 과정 3기 - (주)UVC</strong></li>
+  <li>2022.05 ~ 2022.11 <strong>인공지능 웹 서비스 개발자 과정 - 한국표준협회</strong></li>
 </ul>
 
 <!-- 자격증 -->
@@ -46,7 +46,6 @@
   <li>2024.09.10 <strong>정보처리기사 - 한국산업인력공단</strong></li>
 	<li>2023.12.15 <strong>SQL 개발자(SQLD) - 한국데이터산업진흥원</strong></li>
   <li>2022.12.23 <strong>빅데이터분석기사 - 한국데이터산업진흥원원</strong></li>
-
 </ul>
 
 <!---
